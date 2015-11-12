@@ -1,0 +1,22 @@
+body {
+    width: 90%;
+    margin: 0 auto;
+}
+
+svg {margin-top: 30px;}
+
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #333;
+  stroke-width: 2px;
+  shape-rendering: crispEdges;
+}
+
+.area {
+    stroke: #333;
+    stroke-width: 2px;
+    fill: #4ca3bd;
+}
+
+h1 {text-align: center;}
